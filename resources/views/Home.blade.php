@@ -50,11 +50,8 @@
                 <li><a href="/" class="nav-link">Home</a></li>
                 <li><a href="/shop" class="nav-link">Shop</a></li>
                 <li>
-                    <a href="/product" class="nav-link nav-dropdown">
-                        Product
-                        <svg class="dropdown-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-                        </svg>
+                    <a href="/gallery" class="nav-link active">
+                        Gallery
                     </a>
                 </li>
                 <li><a href="/blog" class="nav-link">Blog</a></li>
